@@ -1,0 +1,19 @@
+{
+  "name": "food-cart",
+  "version": "1.0.0",
+  "description": "Foodcart is all your's",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "Praneeth",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-router-dom": "^7.6.3"
+  }
+}
