@@ -1,6 +1,6 @@
 3682
 75C:\Users\DELL\Desktop\food-cart\node_modules\@parcel\cache\lib\LMDBCache.js133958390552673120 0
-42C:\Users\DELL\Desktop\food-cart\.gitignore133958397829599120 0
+42C:\Users\DELL\Desktop\food-cart\.gitignore133958475346784994 0
 51C:\Users\DELL\Desktop\food-cart\node_modules\cookie133958391000603874 1
 44C:\Users\DELL\Desktop\food-cart\package.json133958398800882751 0
 87C:\Users\DELL\Desktop\food-cart\node_modules\node-gyp-build-optional-packages\README.md133958390548153554 0
@@ -22,7 +22,7 @@
 99C:\Users\DELL\Desktop\food-cart\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h133958390547279021 0
 67C:\Users\DELL\Desktop\food-cart\node_modules\@parcel\diagnostic\src133958390544656375 1
 86C:\Users\DELL\Desktop\food-cart\node_modules\lmdb\node_modules\node-addon-api\index.js133958390555982329 0
-36C:\Users\DELL\Desktop\food-cart\dist133958470993864287 1
+36C:\Users\DELL\Desktop\food-cart\dist133959286060134994 1
 96C:\Users\DELL\Desktop\food-cart\node_modules\scheduler\cjs\scheduler-unstable_mock.production.js133958391000603874 0
 54C:\Users\DELL\Desktop\food-cart\node_modules\@mischnic133958390534694558 1
 93C:\Users\DELL\Desktop\food-cart\node_modules\caniuse-lite\data\features\permissions-policy.js133958390603878925 0
@@ -3091,7 +3091,7 @@
 81C:\Users\DELL\Desktop\food-cart\node_modules\@parcel\transformer-posthtml\LICENSE133958390542312707 0
 71C:\Users\DELL\Desktop\food-cart\node_modules\@parcel\utils\.eslintrc.js133958390546177554 0
 62C:\Users\DELL\Desktop\food-cart\node_modules\@parcel\utils\lib133958390568021250 1
-60C:\Users\DELL\Desktop\food-cart\Components\RestaurantCard.js133958470992925999 0
+60C:\Users\DELL\Desktop\food-cart\Components\RestaurantCard.js133959286058461727 0
 71C:\Users\DELL\Desktop\food-cart\node_modules\@parcel\utils\package.json133958390568021250 0
 62C:\Users\DELL\Desktop\food-cart\node_modules\@parcel\utils\src133958390567854324 1
 63C:\Users\DELL\Desktop\food-cart\node_modules\@parcel\utils\test133958390567898589 1
@@ -3671,13 +3671,13 @@
 87C:\Users\DELL\Desktop\food-cart\node_modules\.bin\node-gyp-build-optional-packages-test133958390618235523 0
 86C:\Users\DELL\Desktop\food-cart\node_modules\.bin\node-gyp-build-optional-packages.cmd133958390618235523 0
 60C:\Users\DELL\Desktop\food-cart\node_modules\.bin\semver.ps1133958390618235523 0
-58C:\Users\DELL\Desktop\food-cart\dist\food-cart.1fcc916e.js133958470993804442 0
-62C:\Users\DELL\Desktop\food-cart\dist\food-cart.1fcc916e.js.map133958470993854305 0
+58C:\Users\DELL\Desktop\food-cart\dist\food-cart.1fcc916e.js133959286060036232 0
+62C:\Users\DELL\Desktop\food-cart\dist\food-cart.1fcc916e.js.map133959286060125025 0
 58C:\Users\DELL\Desktop\food-cart\dist\food-cart.332f64bc.js133958446755431215 0
 58C:\Users\DELL\Desktop\food-cart\dist\food-cart.9b928014.js133958409921166005 0
 62C:\Users\DELL\Desktop\food-cart\dist\food-cart.9b928014.js.map133958409921166005 0
 59C:\Users\DELL\Desktop\food-cart\dist\food-cart.aa436662.css133958469986210114 0
 63C:\Users\DELL\Desktop\food-cart\dist\food-cart.aa436662.css.map133958469986240042 0
 51C:\Users\DELL\Desktop\food-cart\Components\Body.css133958456279486975 0
-50C:\Users\DELL\Desktop\food-cart\Components\Body.js133958456460042974 0
-61C:\Users\DELL\Desktop\food-cart\Components\RestaurantCard.css133958469985857868 0
+50C:\Users\DELL\Desktop\food-cart\Components\Body.js133959285667084227 0
+61C:\Users\DELL\Desktop\food-cart\Components\RestaurantCard.css133958475917483108 0
