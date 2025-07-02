@@ -8,7 +8,7 @@ const Body = () => {
             <div className="search-container">Search</div>
             <div className="res-container">
                 <RestaurantCard resName = "SriKanya" cuisine = "Briyani, Chinese, India" /> {/* passing props like this will actually wrap these properties around object and pass them to respective functional component */}
-                <RestaurantCard resName = "Kfc" cuisine = "Fried-Chicken, Fast-Food" />
+                <RestaurantCard resName = "Kfc" cuisine = "Fried-Chicken, Burger , Fast-Food" />
             </div>
 
         </div>
