@@ -4,7 +4,7 @@ const Header = () => {
     return(
         <div className="header">
             <div className="logo-container">    
-                <img alt="logo" className="logo" src="https://img.freepik.com/free-vector/food-shopping-logo-template-design_460848-10299.jpg?semt=ais_hybrid&w=740" />
+                <img alt="logo" className="logo" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStOvlrmnRCnGjrdAScJIv5KSvz1qYmGD4AH199pSb1A72m4Fum" />
             </div>
 
             <div className="nav-items">
