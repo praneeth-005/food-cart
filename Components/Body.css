@@ -1,3 +1,8 @@
 .search-container{
     padding: 10px;
 }
+.res-container{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
