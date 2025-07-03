@@ -891,7 +891,7 @@ const Body = () => {
             <div className="res-container">
                 {
 
-                 resList.map(restaurant => <RestaurantCard resData = {restaurant} />)
+                 resList.map(restaurant => <RestaurantCard key={restaurant.info.id} resData = {restaurant} />)
 
                 } {/* passing props like this will actually wrap these properties around object and pass them to respective functional component */}
             </div>
