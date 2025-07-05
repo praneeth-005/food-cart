@@ -1,7 +1,3 @@
-import React from "react";
-import RestaurantCard from "./RestaurantCard";
-import './Body.css';
-
 const resList = [
                   {
                     "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
@@ -17,7 +13,7 @@ const resList = [
                         "Fast Food",
                         "Rolls & Wraps"
                       ],
-                      "avgRating": 4.2,
+                      "avgRating": 3.9,
                       "parentId": "547",
                       "avgRatingString": "4.2",
                       "totalRatingsString": "14K+",
@@ -884,19 +880,4 @@ const resList = [
                   }
 ]; {/* Passing data dynamically to RestaurantCard functional component */}
 
-const Body = () => {
-    return(
-        <div className="body">
-            <div className="search-container">Search</div>
-            <div className="res-container">
-                {
-
-                 resList.map(restaurant => <RestaurantCard key={restaurant.info.id} resData = {restaurant} />)
-
-                } {/* passing props like this will actually wrap these properties around object and pass them to respective functional component */}
-            </div>
-
-        </div>
-    )
-}
-export default Body;
+export default resList;
