@@ -3,6 +3,7 @@ import RestaurantCard from "./RestaurantCard";
 import './Body.css';
 import Shimmer from "./Shimmer";
 import { SEARCH_LOGO } from "../utils/constants";
+import { Link } from "react-router";
 
 const Body = () => {
     const [listOfRestaurants, setListOfRestaurants] = useState([]);
@@ -38,7 +39,7 @@ const Body = () => {
             <div className="res-container">
                 {
 
-                 filteredRestaurant.map((restaurant) => (<RestaurantCard key={restaurant.info.id} resData = {restaurant} />))
+                 filteredRestaurant.map((restaurant) => (<Link className="restaurant-link" key={restaurant.info.id} to={"/restaurants/" + restaurant.info.id}><RestaurantCard className="res-card" resData = {restaurant} /></Link>))
 
                 } {/* passing props like this will actually wrap these properties around object and pass them to respective functional component */}
             </div>
