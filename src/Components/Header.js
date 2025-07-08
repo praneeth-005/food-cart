@@ -18,15 +18,15 @@ const Header = () => {
                  <button className="log-btn" onClick={() => btnName === "Login" ? setBtnName("Logout") : setBtnName("Login")}>
                     {btnName}
                  </button>
-                <ul>
+                <ul className="nav-container">
                     <li>
-                       <Link to="/">Home</Link>
+                       <Link className="nav" to="/">Home</Link>
                     </li>
                     <li>
-                        <Link to="/about">About Us</Link>
+                        <Link className="nav" to="/about">About Us</Link>
                     </li>
                     <li>
-                        <Link to="/contact">Contact Us</Link>
+                        <Link className="nav" to="/contact">Contact Us</Link>
                     </li>
                     <li>Cart</li>
                 </ul>
