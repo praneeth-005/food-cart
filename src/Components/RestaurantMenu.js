@@ -28,7 +28,7 @@ const RestaurantManu = () => {
         <>
             <h1>{name}</h1>
             <h4>{cuisines.join(", ")} - {costForTwoMessage}</h4>
-            {itemCards.map((items) => (<li key={items?.card?.info?.id}>{items?.card?.info?.name} - {"Rs."} {items?.card?.info?.price / 100}</li>))}
+            {itemCards.map((items) => (<li key={items?.card?.info?.id}>{items?.card?.info?.name} - {"Rs."} {items?.card?.info?.price / 100 || items?.card?.info?.defaultPrice / 100}</li>))}
         </>
         
     )

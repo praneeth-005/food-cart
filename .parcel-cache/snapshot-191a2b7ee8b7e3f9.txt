@@ -22,7 +22,7 @@
 57D:\food-cart\node_modules\caniuse-lite\data\regions\TO.js133958390616047796 0
 35D:\food-cart\node_modules\is-number133962406332483499 1
 30D:\food-cart\package-lock.json133963594687686490 0
-17D:\food-cart\dist133964568672496194 1
+17D:\food-cart\dist133964572123187324 1
 44D:\food-cart\node_modules\.package-lock.json133963594687978865 0
 80D:\food-cart\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one133962406182076621 1
 71D:\food-cart\node_modules\react-router\dist\production\dom-export.d.mts133958391003436254 0
@@ -42,7 +42,7 @@
 81D:\food-cart\node_modules\@swc\helpers\src\_class_static_private_field_update.mjs133958390595019965 0
 48D:\food-cart\node_modules\semver\functions\gt.js133958390554509921 0
 54D:\food-cart\node_modules\@parcel\events\lib\errors.js133958390547189266 0
-45D:\food-cart\src\Components\RestaurantMenu.js133964527678319233 0
+45D:\food-cart\src\Components\RestaurantMenu.js133964572115600861 0
 23D:\food-cart\index.html133958469714090032 0
 76D:\food-cart\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.h133958390572169060 0
 57D:\food-cart\node_modules\caniuse-lite\data\regions\ER.js133958390597028162 0
@@ -1710,7 +1710,7 @@
 44D:\food-cart\node_modules\is-extglob\LICENSE133958390544136044 0
 49D:\food-cart\node_modules\is-extglob\package.json133958390541968351 0
 78D:\food-cart\node_modules\caniuse-lite\data\features\css-anchor-positioning.js133958390573165247 0
-28D:\food-cart\dist\index.html133964568399396920 0
+28D:\food-cart\dist\index.html133964572122660928 0
 46D:\food-cart\node_modules\is-extglob\README.md133958390542985087 0
 43D:\food-cart\node_modules\has-flag\index.js133958390544085818 0
 57D:\food-cart\node_modules\caniuse-lite\data\regions\NA.js133958390602032027 0
@@ -3010,7 +3010,7 @@
 71D:\food-cart\node_modules\@parcel\watcher\src\windows\WindowsBackend.hh133958390562838861 0
 64D:\food-cart\node_modules\@parcel\transformer-react-refresh-wrap133962406229070020 1
 39D:\food-cart\node_modules\@parcel\types133962406229851520 1
-44D:\food-cart\dist\food-cart.aa436662.css.map133964568672496194 0
+44D:\food-cart\dist\food-cart.aa436662.css.map133964572122690852 0
 41D:\food-cart\node_modules\@parcel\watcher133962406236255834 1
 41D:\food-cart\node_modules\@parcel\workers133962406241098647 1
 74D:\food-cart\node_modules\@parcel\core\src\requests\ParcelConfigRequest.js133958390572663876 0
@@ -3432,7 +3432,7 @@
 82D:\food-cart\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133958390561746287 0
 81D:\food-cart\node_modules\@parcel\package-manager\src\getCurrentPackageManager.js133958390543473579 0
 62D:\food-cart\node_modules\@parcel\package-manager\src\index.js133958390548153554 0
-44D:\food-cart\dist\food-cart.9e4c6fd2.css.map133964568399184543 0
+44D:\food-cart\dist\food-cart.9e4c6fd2.css.map133964572122690852 0
 60D:\food-cart\node_modules\@parcel\feature-flags\package.json133958390550818812 0
 71D:\food-cart\node_modules\@parcel\package-manager\src\installPackage.js133958390556490959 0
 77D:\food-cart\node_modules\@parcel\package-manager\src\MockPackageInstaller.js133958390559324239 0
@@ -3683,8 +3683,8 @@
 72D:\food-cart\node_modules\.bin\node-gyp-build-optional-packages-test.ps1133958390618235523 0
 67D:\food-cart\node_modules\.bin\node-gyp-build-optional-packages.ps1133958390618235523 0
 37D:\food-cart\node_modules\.bin\semver133958390618235523 0
-39D:\food-cart\dist\food-cart.1fcc916e.js133964568399873281 0
-43D:\food-cart\dist\food-cart.1fcc916e.js.map133964568399982990 0
+39D:\food-cart\dist\food-cart.1fcc916e.js133964572123127482 0
+43D:\food-cart\dist\food-cart.1fcc916e.js.map133964572123177338 0
 43D:\food-cart\dist\food-cart.9b928014.js.map133958409921166005 0
-40D:\food-cart\dist\food-cart.9e4c6fd2.css133964568399154620 0
-40D:\food-cart\dist\food-cart.aa436662.css133964568672496194 0
+40D:\food-cart\dist\food-cart.9e4c6fd2.css133964572122621037 0
+40D:\food-cart\dist\food-cart.aa436662.css133964572122631004 0
