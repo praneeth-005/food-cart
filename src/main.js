@@ -1,4 +1,3 @@
-import React from "react";
 import ReactDOM from "react-dom/client";
 import AppLayout from "./App";
 import Contact from "./Components/Contact";
@@ -8,12 +7,7 @@ import { createBrowserRouter, RouterProvider } from "react-router";
 import Body from "./Components/Body";
 import RestaurantManu from "./Components/RestaurantMenu";
 
-{/*const Main = () => {
-    return(
-        <AppLayout />
-    )
-}
-*/}
+
 
 const appRouter = createBrowserRouter([
     {
